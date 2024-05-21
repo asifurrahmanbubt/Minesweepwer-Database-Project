@@ -42,7 +42,11 @@ This project is a web-based Minesweeper game integrated with a MySQL database fo
 3. Set up your Python environment and install dependencies:
    
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+    source venv/bin/activate  # 
+    
+    On Windows use `venv\Scripts\activate`
+
     pip install -r requirements.txt
     
 
