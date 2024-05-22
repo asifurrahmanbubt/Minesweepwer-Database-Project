@@ -1,6 +1,6 @@
 # Minesweeper Database Project
 
-This project is a web-based Minesweeper game integrated with a MySQL database for user management, game state saving, and statistics tracking. It was developed as part of the CSE-208 Database Lab Course.
+This project is a Minesweeper game integrated with a MySQL database for user management, game state saving, and statistics tracking. It was developed as part of the CSE-208 Database Lab Course.
 
 ## Table of Contents
 
