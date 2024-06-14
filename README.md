@@ -33,7 +33,7 @@ This project is a Minesweeper game integrated with a MySQL database for user man
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Minesweeper-Database-Project.git
+    git clone https://github.com/asifurrahmanbubt/Minesweepwer-Database-Project
     ```
 2. Navigate to the project directory:
     ```bash
